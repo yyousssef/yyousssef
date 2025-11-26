@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🧠 Youssef Hesham — AI Automation & Workflow Engineer  
 
-<!--
-**yyousssef/yyousssef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build fast, scalable automation systems using **n8n**, **Make**, and AI-powered workflows.  
+My projects focus on real-world business automation: affiliate marketing, email outreach, content generation, and workflow orchestration.
 
-Here are some ideas to get you started:
+### 🚀 Skills  
+- AI Automation (n8n, Make, Zapier)  
+- Python automation  
+- API integration  
+- Web scraping  
+- Workflow design & optimization  
+- Digital marketing automation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects  
+- Affiliate Auto-Publisher  
+- Dropshipping Auto-Publisher  
+- Auto Email Marketing System  
+- Auto Content Aggregator  
+
+### 🎯 About Me  
+Self-taught automation developer passionate about building systems that remove manual work and help businesses operate at scale.
+
+### 📫 Contact  
+- Email: youwe2097@gmgail.com
+- WhatsApp: +201029729477
+
