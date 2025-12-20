@@ -18,13 +18,13 @@ I engineer intelligent automation systems for businesses, transforming manual pr
 
 ### 📂 Featured Projects
 
-*   **[Automated Social Media Content Scheduler](link-to-your-repo-here)**
+*   **Automated Social Media Content Scheduler**
     *   A Make.com pipeline that turns a Google Sheet into a hands-free social media publisher for Facebook and LinkedIn.
 
-*   **[AI-Powered Invoice Data Extractor](link-to-your-repo-here)**
+*   **AI-Powered Invoice Data Extractor**
     *   A Make.com robot that monitors an inbox, "reads" PDF invoices, and automatically logs the extracted data into a Google Sheet.
 
-*   **[Real-Time Lead Capture & Sales Notification System](link-to-your-repo-here)**
+*   **Real-Time Lead Capture & Sales Notification System**
     *   A Make.com workflow that instantly captures, qualifies, and sends high-value web leads directly to a sales team's Slack channel.
 
 ---
