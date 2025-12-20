@@ -18,13 +18,13 @@ I engineer intelligent automation systems for businesses, transforming manual pr
 
 ### 📂 Featured Projects
 
-*   **Automated Social Media Content Scheduler**
+*   **[Automated Social Media Content Scheduler](https://github.com/yyousssef/make-social-media-scheduler)**
     *   A Make.com pipeline that turns a Google Sheet into a hands-free social media publisher for Facebook and LinkedIn.
 
-*   **AI-Powered Invoice Data Extractor**
+*   **[AI-Powered Invoice Data Extractor](https://github.com/yyousssef/make-ai-invoice-processor)**
     *   A Make.com robot that monitors an inbox, "reads" PDF invoices, and automatically logs the extracted data into a Google Sheet.
 
-*   **Real-Time Lead Capture & Sales Notification System**
+*   **[Real-Time Lead Capture & Sales Notification System](https://github.com/yyousssef/make-intelligent-lead-catcher)**
     *   A Make.com workflow that instantly captures, qualifies, and sends high-value web leads directly to a sales team's Slack channel.
 
 *   **[LangChain Groq Chatbot](https://github.com/yyousssef/langchain-groq-chatbot.)**
