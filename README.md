@@ -1,24 +1,44 @@
-# 🧠 Youssef Hesham — AI Automation & Workflow Engineer  
+# 🧠 Youssef Hesham — AI & Automation Engineer
 
-I build fast, scalable automation systems using **n8n**, **Make**, and AI-powered workflows.  
-My projects focus on real-world business automation: affiliate marketing, email outreach, content generation, and workflow orchestration.
+I engineer intelligent automation systems for businesses, transforming manual processes into hands-free, efficient workflows. I specialize in building solutions with **Make**, **n8n**, and creating custom AI agents and chatbots with **Python** and **LangChain**.
 
-### 🚀 Skills  
-- AI Automation (n8n, Make, Zapier)  
-- Python automation  
-- API integration  
-- Web scraping  
-- Workflow design & optimization  
-- Digital marketing automation  
+---
 
-### 📂 Featured Projects  
-- Affiliate Auto-Publisher  
-- Dropshipping Auto-Publisher  
-- Auto Email Marketing System  
-- Auto Content Aggregator  
+### 🚀 Core Skills
 
-### 🎯 About Me  
-Self-taught automation developer passionate about building systems that remove manual work and help businesses operate at scale.
+| Workflow & Process Automation | AI & Python Development | Core Competencies |
+| :--- | :--- | :--- |
+| ⚫ n8n | 🐍 Python | 🔗 API Integration |
+| 🔵 Make.com | 🦜️🔗 LangChain | 📊 Data Extraction & Parsing |
+| ⚡ Zapier | 🤖 Chatbot Development | 📄 PDF Automation |
+| 📈 Workflow Design & Optimization | 🕸️ Web Scraping | 💰 Sales & Marketing Automation |
+| 🗂️ Lead Qualification & Management | | |
+
+---
+
+### 📂 Featured Projects
+
+*   **[Automated Social Media Content Scheduler](link-to-your-repo-here)**
+    *   A Make.com pipeline that turns a Google Sheet into a hands-free social media publisher for Facebook and LinkedIn.
+
+*   **[AI-Powered Invoice Data Extractor](link-to-your-repo-here)**
+    *   A Make.com robot that monitors an inbox, "reads" PDF invoices, and automatically logs the extracted data into a Google Sheet.
+
+*   **[Real-Time Lead Capture & Sales Notification System](link-to-your-repo-here)**
+    *   A Make.com workflow that instantly captures, qualifies, and sends high-value web leads directly to a sales team's Slack channel.
+
+---
+
+### 💡 What I'm Building Next
+
+I am currently diving deeper into **LangChain** and **Python** to build sophisticated AI chatbots designed for advanced lead generation and interactive customer support.
+
+---
+
+### 🎯 About Me
+
+I am a self-taught automation developer passionate about building systems that remove manual work and help businesses operate at scale. I believe the best solutions are simple, robust, and deliver immediate value.
+
 
 ### 📫 Contact  
 - Email: youwe2097@gmgail.com
