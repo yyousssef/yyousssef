@@ -27,7 +27,7 @@ I engineer intelligent automation systems for businesses, transforming manual pr
 *   **Real-Time Lead Capture & Sales Notification System**
     *   A Make.com workflow that instantly captures, qualifies, and sends high-value web leads directly to a sales team's Slack channel.
 
-*   **LangChain Groq Chatbot**
+*   **[LangChain Groq Chatbot](https://github.com/yyousssef/langchain-groq-chatbot)**
     *A simple command-line chatbot built with Python, LangChain, and the high-speed Groq API
    
 
